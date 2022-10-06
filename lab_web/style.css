@@ -1,0 +1,105 @@
+body{
+
+    position: relative;
+    width: 1920px;
+    height: 2160px;
+    
+    background: #FFFFFF;
+}
+.bebra {
+    position: absolute;
+    width: 710px;
+    height: 79px;
+    left: 605px;
+    top: 113px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #FF0000;
+}
+
+.kyrka{
+    position: absolute;
+width: 751px;
+height: 12px;
+left: 584px;
+top: 250px;
+
+background: #0500FF;
+}
+
+
+
+.spisok{
+    position: absolute;
+width: 961px;
+height: 385px;
+left: 23px;
+top: 296px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+}
+
+
+.kaban{
+    position: absolute;
+width: 320px;
+height: 1001px;
+left: 1433px;
+top: 69px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+}
+.roro{
+    position: absolute;
+width: 1644px;
+height: 288px;
+left: 138px;
+top: 891px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+
+
+.fl{
+    /* Пункт 1. Підпункт 1.1. Підпункт 1.1.1. */
+
+
+position: absolute;
+width: 273px;
+height: 192px;
+left: 138px;
+top: 1210px;
+
+font-family: 'Inter';
+font-style: italic;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+}
